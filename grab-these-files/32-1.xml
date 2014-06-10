@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00064' order_by='00064' level='2'>Chapter 32 WATER AND SEWER REGULATIONS</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>32-1</section_number>
+<catch_line>Short title.</catch_line>
+<order_by>0000003781</order_by>
+<text><section>Sec. 32-1. Short title.<section>This chapter shall be known and may be cited as the "Metropolitan Miami-Dade County Water and Sewer System Regulatory Ordinance."</section></section></text><history>(Ord. No. 60-20, § 1, 7-5-60)</history></law>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00013' order_by='00013' level='2'>ARTICLE 9. GENERAL PROVISIONS</unit>
+</structure>
+<section_number>9.04</section_number>
+<catch_line>SUPREMACY CLAUSE.</catch_line>
+<order_by>0000000050</order_by>
+<text><section>SECTION 9.04. SUPREMACY CLAUSE.<section prefix='A.'>This Charter and the ordinances adopted hereunder shall in cases of conflict supersede all municipal charters and ordinances, except as herein provided, and where authorized by the Constitution, shall in cases of conflict supersede all special and general laws of the state.</section><section prefix='B.'>All other special and general laws and county ordinances and rules and regulations not inconsistent with this Charter shall continue in effect until they are superseded by ordinance adopted by the Board pursuant to this Charter and the Constitution.</section></section></text></law>

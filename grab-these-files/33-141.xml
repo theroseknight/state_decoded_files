@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00009' order_by='00009' level='3'>ARTICLE IX. STREET NAMES AND NUMBERS</unit>
+</structure>
+<section_number>33-141</section_number>
+<catch_line>Names of avenues.</catch_line>
+<order_by>0000004011</order_by>
+<text><section>Sec. 33-141. Names of avenues.<section>Avenues as herein defined shall derive their names as follows:<section prefix='(a)'>Each avenue lying east of the base thoroughfare Miami Avenue shall bear the numerical name indicating the number of squares easterly that it may be removed from said base thoroughfare.</section><section prefix='(b)'>Each avenue lying west of the base thoroughfare Miami Avenue shall bear the numerical name indicating the number of squares westerly that it may be removed from said base thoroughfare.</section></section></section></text><history>(Ord. No. 57-19, § 32(D), 10-22-57)</history></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00063' order_by='00063' level='2'>Chapter 31 VEHICLES FOR HIRE</unit>
+<unit label='article' identifier='00005' order_by='00005' level='3'>ARTICLE V. GENERAL REQUIREMENTS</unit>
+</structure>
+<section_number>31-310—31-600</section_number>
+<catch_line>Reserved.</catch_line>
+<order_by>0000003765</order_by>
+<text><section>Secs. 31-310—31-600. Reserved.</section></text></law>

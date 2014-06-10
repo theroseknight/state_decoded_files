@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00059' order_by='00059' level='2'>Chapter 29 TAXATION</unit>
+<unit label='article' identifier='00012' order_by='00012' level='3'>ARTICLE XI. COUNTY TRANSIT SYSTEM SALES SURTAX</unit>
+</structure>
+<section_number>29-90</section_number>
+<catch_line>Sales surtax levied.</catch_line>
+<order_by>0000003271</order_by>
+<text><section>Sec. 29-90. Sales surtax levied.<section>There is hereby levied and imposed a one (1) percent County transit system surtax on all transactions occurring in Miami-Dade County which transactions are subject to the State tax imposed on sales, use, rentals, admissions and other transactions by Part I of Chapter 212 Florida Statutes.</section></section></text><history>(Ord. No. 90-15, § 1, 3-6-90)</history></law>

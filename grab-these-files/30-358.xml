@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-358</section_number>
+<catch_line>Mufflers, prevention of noise.</catch_line>
+<order_by>0000003480</order_by>
+<text><section>Sec. 30-358. Mufflers, prevention of noise.<section prefix='(1)'>Every motor vehicle shall at all times be equipped with a muffler in good working order and in constant operation to prevent excessive or unusual noise, and no person shall use a muffler cutout, bypass or similar device upon a vehicle on a highway.</section><section prefix='(2)'>The engine and power mechanism of every motor vehicle shall be so equipped and adjusted as to prevent the escape of excessive fumes or smoke.</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

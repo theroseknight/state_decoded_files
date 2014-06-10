@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00011' order_by='00011' level='3'>ARTICLE XA. EDUCATIONAL AND CHILD CARE FACILITIES, NONPUBLIC</unit>
+</structure>
+<section_number>33-151.12</section_number>
+<catch_line>Religious activities.</catch_line>
+<order_by>0000004024</order_by>
+<text><section>Sec. 33-151.12. Religious activities.<section>This article shall not be applicable to facilities used principally for weekend or intermittent nonacademic religious instruction or for the care of children whose parents or guardians are attending religious services or meetings on the premises.</section></section></text><history>(Ord. No. 77-59, § 1, 9-6-77)</history></law>

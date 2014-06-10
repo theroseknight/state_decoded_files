@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00061' order_by='00061' level='2'>Chapter 30A URBAN RENEWAL</unit>
+<unit label='article' identifier='00005' order_by='00005' level='3'>ARTICLE V. FLORIDA CITY COMMUNITY REDEVELOPMENT AREA</unit>
+</structure>
+<section_number>30A-121</section_number>
+<catch_line>Incorporation of recitations.</catch_line>
+<order_by>0000003664</order_by>
+<text><section>Sec. 30A-121. Incorporation of recitations.<section>The recitations contained in Ordinance No. 95-108 are hereby deemed true and correct and are hereby incorporated as a part of this article.</section></section></text><history>(Ord. No. 95-108, § 1, 6-20-95)</history></law>

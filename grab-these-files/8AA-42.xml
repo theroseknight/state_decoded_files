@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00010' order_by='00010' level='2'>Chapter 8AA CABLE AND COMMUNICATIONS SERVICES PROVIDERS</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. CABLE TELEVISION REGULATIONS</unit>
+</structure>
+<section_number>8AA-42</section_number>
+<catch_line>Standby power.</catch_line>
+<order_by>0000001883</order_by>
+<text><section>Sec. 8AA-42. Standby power.<section>Within thirty six (36) months of the award, transfer or renewal of the license, the licensee shall maintain equipment capable of providing standby power for headend, transmission and trunk amplifiers for a minimum of two (2) hours. After forty-eight (48) hours written notice, the County shall have the authority to inspect the licensee's power supply equipment to determine compliance with this section.</section></section></text><history>(Ord. No. 90-73, § 1, 7-24-90; Ord. No. 01-44, § 1, 3-20-01)</history></law>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00005' order_by='00005' level='2'>ARTICLE 1. BOARD OF COUNTY COMMISSIONERS</unit>
+</structure>
+<section_number>1.03</section_number>
+<catch_line>DISTRICTS.</catch_line>
+<order_by>0000000008</order_by>
+<text><section>SECTION 1.03. DISTRICTS.<section prefix='A.'>There shall be thirteen County Commission districts. The current boundaries of these districts shall be as shown on the map attached as Exhibit A and made a part hereof.</section><section prefix='B.'>The Board may by ordinance adopted by two-thirds vote of the members of the Board change the boundaries of the districts from time to time. The boundaries shall be fixed on the basis of the character, population, and geography of the districts.</section></section></text></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00059' order_by='00059' level='2'>Chapter 29 TAXATION</unit>
+<unit label='article' identifier='00013' order_by='00013' level='3'>ARTICLE XII. COUNTY HEALTH CARE SURTAX</unit>
+</structure>
+<section_number>29-95</section_number>
+<catch_line>Sales surtax levied.</catch_line>
+<order_by>0000003276</order_by>
+<text><section>Sec. 29-95. Sales surtax levied.<section>There is hereby levied and imposed a one-half percent health care surtax on all transactions occurring in Miami-Dade County which transactions are subject to the State tax imposed on sales, use, rentals, admissions and other transactions by Part I of Chapter 212 Florida Statutes.</section></section></text><history>(Ord. No. 91-64, § 1, 6-18-91)</history></law>

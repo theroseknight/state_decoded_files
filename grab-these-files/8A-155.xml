@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00009' order_by='00009' level='2'>Chapter 8A BUSINESS REGULATIONS</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE VII. TRUTH IN MOTORBOAT REPAIRS AND ESTIMATES</unit>
+</structure>
+<section_number>8A-155</section_number>
+<catch_line>False charges for motorboat repairs and parts.</catch_line>
+<order_by>0000001500</order_by>
+<text><section>Sec. 8A-155. False charges for motorboat repairs and parts.<section>It is unlawful for a person to knowingly charge for any services which are not actually performed in repairing a motorboat, or to knowingly charge for any parts which are not actually furnished, or to knowingly misinform a customer concerning what is wrong with his motorboat, or to fraudulently substitute parts when such substitution has no relation to the repairing or servicing of the motorboat.</section></section></text><history>(Ord. No. 71-20, § 2, 2-16-71; Ord. No. 92-38, § 1, 5-19-92)</history></law>

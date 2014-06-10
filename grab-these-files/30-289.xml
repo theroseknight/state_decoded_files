@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-289</section_number>
+<catch_line>Method of giving hand and arm signals.</catch_line>
+<order_by>0000003409</order_by>
+<text><section>Sec. 30-289. Method of giving hand and arm signals.<section>All signals herein required to be given by hand and arm shall be given from the left side of the vehicle in the following manner and such signals shall indicate as follows:<section prefix='(1)'>Left turn. Hand and arm extended horizontally.</section><section prefix='(2)'>Right turn. Hand and arm extended upward.</section><section prefix='(3)'>Stop or decrease speed. Hand and arm extended downward.</section></section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

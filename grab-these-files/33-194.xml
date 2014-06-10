@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00016' order_by='00016' level='3'>ARTICLE XIII. GU, INTERIM DISTRICT</unit>
+</structure>
+<section_number>33-194</section_number>
+<catch_line>Boundary.</catch_line>
+<order_by>0000004109</order_by>
+<text><section>Sec. 33-194. Boundary.<section>The boundary of GU Interim District shall be the entire unincorporated area of the County, excepting the area specifically covered by another district.</section></section></text><history>(Ord. No. 57-19, § 6(A), 10-22-57)</history></law>

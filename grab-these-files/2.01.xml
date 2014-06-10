@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00006' order_by='00006' level='2'>ARTICLE 2. MAYOR</unit>
+</structure>
+<section_number>2.01</section_number>
+<catch_line>ELECTION OF MAYOR.</catch_line>
+<order_by>0000000014</order_by>
+<text><section>SECTION 2.01. ELECTION OF MAYOR.<section>There shall be elected by the qualified electors of the county at large a Mayor who shall be a qualified elector residing within the county at least three years before qualifying. The Mayor shall not serve as a member of the Commission.</section></section></text></law>

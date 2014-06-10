@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00013' order_by='00013' level='2'>ARTICLE 9. GENERAL PROVISIONS</unit>
+</structure>
+<section_number>9.03</section_number>
+<catch_line>TORT LIABILITY.</catch_line>
+<order_by>0000000049</order_by>
+<text><section>SECTION 9.03. TORT LIABILITY.<section>The county shall be liable in actions of tort to the same extent that municipalities in the State of Florida are liable in actions in tort. However, no suit shall be maintained against the county for damages to persons or property or for wrongful death arising out of any tort unless written notice of claim shall first have been given to the county in the manner and within the time provided by ordinance, except that the time fixed by ordinance for notice shall be not less than 30 days nor more than 120 days.</section><section>Note: Waiver of County's tort immunity held unconstitutional in Kaulakis v. Boyd, Fla. 1962,138 So.2d 505.</section></section></text></law>

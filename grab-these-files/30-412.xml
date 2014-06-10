@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-412</section_number>
+<catch_line>Records of traffic violations; traffic tickets; public records.</catch_line>
+<order_by>0000003577</order_by>
+<text><section>Sec. 30-412. Records of traffic violations; traffic tickets; public records.<section prefix='(a)'>The Clerk of the Court of appropriate jurisdiction shall keep a record of all alleged violations of the traffic ordinances of this County of which any person has been charged, together with a record of the final disposition of all such alleged offenses.</section><section prefix='(b)'>All traffic complaints and notices of violations issued by police officers, shall be serially numbered. The records and reports of the clerk are public records.</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

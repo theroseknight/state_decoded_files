@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00064' order_by='00064' level='2'>Chapter 32 WATER AND SEWER REGULATIONS</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE VIII. CROSS CONNECTION CONTROL PROGRAM</unit>
+</structure>
+<section_number>32-153</section_number>
+<catch_line>Prohibition of uncontrolled cross-connections.</catch_line>
+<order_by>0000003843</order_by>
+<text><section>Sec. 32-153. Prohibition of uncontrolled cross-connections.<section>It shall be unlawful for any water customer to install or maintain any cross connections without providing backflow prevention to protect the public water supply. To the extent required by law, educational materials shall be provided by the Department to water customers and to relevant businesses and employees, alerting them to the dangers of backflow through cross-connections and to prevention measures.</section></section></text><history>(Ord. No. 99-165, § 1, 12-7-99; Ord. No. 01-169, § 1, 10-23-01)</history></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00050' order_by='00050' level='3'>ARTICLE XXXIIIB. PLANNED DEVELOPMENT</unit>
+</structure>
+<section_number>33-284.14.1</section_number>
+<catch_line>Computation of commercial floor area.</catch_line>
+<order_by>0000004326</order_by>
+<text><section>Sec. 33-284.14.1. Computation of commercial floor area.<section>Total interior square footage of commercial floor area shall be determined by multiplying the total net square footage of each commercially zoned parcel by one (1) of the following factors: parcels zoned BU-1=0.50; parcels zoned BU-1A=0.75; parcels zoned BU-2=1.00. The sum of the resulting square footage figures for each individual commercially zoned parcel shall be the maximum permitted interior gross square footage, provided all other requirements of this article are met.</section></section></text><history>(Ord. No. 78-39, § 6, 6-6-78)</history></law>

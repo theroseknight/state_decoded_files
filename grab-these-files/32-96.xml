@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00064' order_by='00064' level='2'>Chapter 32 WATER AND SEWER REGULATIONS</unit>
+<unit label='article' identifier='00006' order_by='00006' level='3'>ARTICLE VI. MIAMI-DADE WATER AND SEWER AUTHORITY DEPARTMENT BILLING PROCEDURES</unit>
+</structure>
+<section_number>32-96</section_number>
+<catch_line>Evidence of water and sewer service.</catch_line>
+<order_by>0000003825</order_by>
+<text><section>Sec. 32-96. Evidence of water and sewer service.<section>The water and sewer service rendered by the Department, as measured by water meters, shall be prima facie evidence of the quantity of water delivered to the customer and of sewage collected from the customer.</section></section></text><history>(Ord. No. 84-10, § 1, 2-7-84)</history></law>

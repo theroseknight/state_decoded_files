@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00010' order_by='00010' level='2'>ARTICLE 6. MUNICIPALITIES</unit>
+</structure>
+<section_number>6.02</section_number>
+<catch_line>MUNICIPAL POWERS.</catch_line>
+<order_by>0000000035</order_by>
+<text><section>SECTION 6.02. MUNICIPAL POWERS.<section>Each municipality shall have the authority to exercise all powers relating to its local affairs not inconsistent with this Charter. Each municipality may provide for higher standards of zoning, service, and regulation than those provided by the Board of County Commissioners in order that its individual character and standards may be preserved for its citizens.</section></section></text></law>

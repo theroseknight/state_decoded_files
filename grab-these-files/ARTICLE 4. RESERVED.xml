@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00008' order_by='00008' level='2'>ARTICLE 4. RESERVED</unit>
+</structure>
+<section_number>abc</section_number>
+<catch_line>ARTICLE 4. RESERVED</catch_line>
+<order_by>0000000024</order_by>
+<text><section>ARTICLE 4. RESERVED</section></text></law>

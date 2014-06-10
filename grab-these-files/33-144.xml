@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00009' order_by='00009' level='3'>ARTICLE IX. STREET NAMES AND NUMBERS</unit>
+</structure>
+<section_number>33-144</section_number>
+<catch_line>Name of lanes.</catch_line>
+<order_by>0000004014</order_by>
+<text><section>Sec. 33-144. Name of lanes.<section>Lanes, as herein defined, shall derive their names as follows:<section prefix='(a)'>Each lane lying north of the base thoroughfare Flagler Street shall drive its name from the next southerly street.</section><section prefix='(b)'>Each lane lying south of the base thoroughfare Flagler Street shall derive its name from the next northerly street.</section></section></section></text><history>(Ord. No. 57-19, § 32(E), 10-22-57)</history></law>

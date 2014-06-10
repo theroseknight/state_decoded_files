@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-212</section_number>
+<catch_line>Careless driving.</catch_line>
+<order_by>0000003324</order_by>
+<text><section>Sec. 30-212. Careless driving.<section prefix='(1)'>Any person operating a vehicle upon the streets or highways within the County shall drive the same in a careful and prudent manner, having regard for the width, grade, curves, corners, traffic and all other attendant circumstances, so as not to endanger the life, limb, or property of any person. Failure to drive in such manner shall constitute careless driving and a violation of this section.</section><section prefix='(2)'>Any person found guilty of careless driving shall be punished as provided in Section 30-208</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

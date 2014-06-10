@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-250</section_number>
+<catch_line>Limitations on backing.</catch_line>
+<order_by>0000003362</order_by>
+<text><section>Sec. 30-250. Limitations on backing.<section prefix='(1)'>The driver of a vehicle shall not back the same unless such movement can be made with safety and without interfering with other traffic.</section><section prefix='(2)'>The driver of a vehicle shall not back the same upon any shoulder or roadway of any limited access facility.</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

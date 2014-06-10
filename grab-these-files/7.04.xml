@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00011' order_by='00011' level='2'>ARTICLE 7. PARKS, AQUATIC PRESERVES, AND PRESERVATION LANDS.</unit>
+</structure>
+<section_number>7.04</section_number>
+<catch_line>JURISDICTION.</catch_line>
+<order_by>0000000044</order_by>
+<text><section>SECTION 7.04. JURISDICTION.<section>Except as otherwise provided herein the provisions of this Article shall apply to all County and municipal parks, aquatic preserves, and lands acquired by the County for preservation now in existence or hereafter acquired, provided that if this Article was not favorably voted upon by a majority of the voters voting in any municipality at the time of the adoption of this Article the municipal parks of such municipality shall be excluded from the provisions of this Article.</section></section></text></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00010' order_by='00010' level='2'>Chapter 8AA CABLE AND COMMUNICATIONS SERVICES PROVIDERS</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. CABLE TELEVISION REGULATIONS</unit>
+</structure>
+<section_number>8AA-45</section_number>
+<catch_line>A/B switch.</catch_line>
+<order_by>0000001886</order_by>
+<text><section>Sec. 8AA-45. A/B switch.<section>The licensee shall make available, to any residential subscriber so requesting, an input selector or A/B switch permitting conversion from cable to antenna reception. An additional reasonable charge for any such device may be imposed.</section></section></text><history>(Ord. No. 90-73, § 1, 7-24-90)</history></law>

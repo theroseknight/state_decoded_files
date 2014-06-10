@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00009' order_by='00009' level='3'>ARTICLE IX. STREET NAMES AND NUMBERS</unit>
+</structure>
+<section_number>33-145</section_number>
+<catch_line>Names of courts.</catch_line>
+<order_by>0000004015</order_by>
+<text><section>Sec. 33-145. Names of courts.<section>Courts as herein defined, shall drive their names as follows:<section prefix='(a)'>Each court lying east of the base thoroughfare Miami Avenue shall derive its name from the next westerly avenue.</section><section prefix='(b)'>Each court lying west of the base thoroughfare Miami Avenue shall derive its name from the next easterly avenue.</section></section></section></text><history>(Ord. No. 57-19, § 32(H), 10-22-57)</history></law>

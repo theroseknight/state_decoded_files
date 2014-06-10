@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00043' order_by='00043' level='2'>Chapter 23 PENSIONS</unit>
+<unit label='article' identifier='00004' order_by='00004' level='3'>ARTICLE IV. DEATH BENEFITS</unit>
+</structure>
+<section_number>23-66</section_number>
+<catch_line>Modification of article.</catch_line>
+<order_by>0000003044</order_by>
+<text><section>Sec. 23-66. Modification of article.<section>The benefits, or any of them, provided for in this article may be modified or terminated at any time by ordinance.</section></section></text><history>(Ord. No. 65-46, § 6, 6-17-65)</history></law>

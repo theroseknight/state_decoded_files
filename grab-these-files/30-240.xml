@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-240</section_number>
+<catch_line>One-way roadways and rotary traffic islands.</catch_line>
+<order_by>0000003352</order_by>
+<text><section>Sec. 30-240. One-way roadways and rotary traffic islands.<section prefix='(1)'>The Department of Transportation and local authorities with respect to highways under their respective jurisdictions may designate any highway, roadway, part of a roadway or specific lanes upon which vehicular traffic shall proceed in one (1) direction at all or such times as shall be indicated by official traffic control devices.</section><section prefix='(2)'>Upon a roadway so designated for one-way traffic, a vehicle shall be driven only in the direction designated at all or such times as shall be indicated by official traffic control devices.</section><section prefix='(3)'>A vehicle passing around a rotary traffic island shall be driven only to the right of such island.</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

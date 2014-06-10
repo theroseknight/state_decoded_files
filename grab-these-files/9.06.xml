@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00013' order_by='00013' level='2'>ARTICLE 9. GENERAL PROVISIONS</unit>
+</structure>
+<section_number>9.06</section_number>
+<catch_line>EFFECT OF THE CHARTER.</catch_line>
+<order_by>0000000052</order_by>
+<text><section>SECTION 9.06. EFFECT OF THE CHARTER.<section prefix='A.'>This Charter shall be liberally construed in aid of its declared purpose, which is to establish effective home rule government in this county responsive to the people. If any Article, Section, subsection, sentence, clause, or provision of this Charter or the application thereof shall be held invalid for any reason, the remainder of the Charter and of any ordinances or regulations made thereunder shall remain in full force and effect.</section><section prefix='B.'>Nothing in this Charter shall be construed to limit or restrict the power and jurisdiction of the Florida Railroad and Public Utilities Commission.</section></section></text></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-379</section_number>
+<catch_line>Meter to be visible.</catch_line>
+<order_by>0000003505</order_by>
+<text><section>Sec. 30-379. Meter to be visible.<section>Every vehicle parked in a parking metered space shall be parked with the front end or front part of such vehicle immediately opposite the parking meter for such space, and in such manner that the meter shall be visible from the street side of the vehicle.</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

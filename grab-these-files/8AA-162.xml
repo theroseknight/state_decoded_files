@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00010' order_by='00010' level='2'>Chapter 8AA CABLE AND COMMUNICATIONS SERVICES PROVIDERS</unit>
+<unit label='article' identifier='00003' order_by='00003' level='3'>ARTICLE III. PUBLIC RIGHTS-OF-WAY REGULATIONS FOR COMMUNICATIONS SERVICES PROVIDERS</unit>
+</structure>
+<section_number>8AA-162</section_number>
+<catch_line>Technical Standards.</catch_line>
+<order_by>0000001964</order_by>
+<text><section>Sec. 8AA-162. Technical Standards.<section prefix='(a)'>All construction, installation, grounding, and maintenance shall comply with the current versions of the National Electrical Safety Code and the National Electrical Code.</section><section prefix='(b)'>Underground construction in streets shall be of such quality as to assure continuity of service without the necessity of frequent street or pavement cutting.</section><section prefix='(c)'>All cables and wires shall be installed, where possible, parallel with electric and telephone lines.</section></section></text><history>(Ord. No. 01-109, § 5, 6-19-01)</history></law>

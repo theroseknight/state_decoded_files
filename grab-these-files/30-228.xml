@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-228</section_number>
+<catch_line>Immediate reports of accidents.</catch_line>
+<order_by>0000003340</order_by>
+<text><section>Sec. 30-228. Immediate reports of accidents.<section prefix='(1)'>The driver of a vehicle involved in an accident resulting in injury to or death of any person or property damage shall immediately by the quickest means of communication give notice of the accident to the local Police Department, if such accident occurs within a municipality; otherwise, to the Office of the County Sheriff or the nearest office or station of the Florida Highway Patrol.</section><section prefix='(2)'>Every coroner, or other official performing like functions, upon learning of the death of a person in his jurisdiction as the result of a traffic accident, shall immediately notify the nearest office or station of the Department.</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00009' order_by='00009' level='2'>Chapter 8A BUSINESS REGULATIONS</unit>
+<unit label='article' identifier='00020' order_by='00020' level='3'>ARTICLE XVII. MIAMI-DADE COUNTY LOCKSMITH ORDINANCE</unit>
+</structure>
+<section_number>8A-352</section_number>
+<catch_line>Reserved.</catch_line>
+<order_by>0000001769</order_by>
+<text><section>Sec. 8A-352. Reserved.</section></text></law>

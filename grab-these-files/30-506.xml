@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00005' order_by='00005' level='3'>ARTICLE IV. COMBAT AUTOMOBILE THEFT PROGRAM</unit>
+</structure>
+<section_number>30-506</section_number>
+<catch_line>Validity.</catch_line>
+<order_by>0000003626</order_by>
+<text><section>Sec. 30-506. Validity.<section>If any section, subsection, sentence, clause, or provision of this article is held invalid, the remainder of this article shall not be affected by such invalidity.</section></section></text><history>(Ord. No. 91-118, § 7, 10-1-91)</history></law>

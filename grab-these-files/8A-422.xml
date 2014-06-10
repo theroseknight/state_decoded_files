@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00009' order_by='00009' level='2'>Chapter 8A BUSINESS REGULATIONS</unit>
+<unit label='article' identifier='00025' order_by='00025' level='3'>ARTICLE XXII. PERSONAL INJURY PROTECTION MEDICAL PROVIDERS</unit>
+</structure>
+<section_number>8A-422</section_number>
+<catch_line>Registration Required.</catch_line>
+<order_by>0000001833</order_by>
+<text><section>Sec. 8A-422. Registration Required.<section prefix='(a)'>All PIP Medical Providers operating within the geographic boundaries of Miami-Dade County shall be registered with the Department. Registration shall be renewed annually.<section prefix='(1)'>Proof of current registration with the County shall be prominently displayed in a common public area of all PIP Medical Provider locations.</section><section prefix='(2)'>Each PIP Medical Provider location shall be registered separately, regardless of whether the location is operated under the same business name or management as another PIP Medical Provider location.</section></section></section></text><history>(Ord. No. 12-08, § 2, 2-21-12)</history></law>

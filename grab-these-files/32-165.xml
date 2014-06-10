@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00064' order_by='00064' level='2'>Chapter 32 WATER AND SEWER REGULATIONS</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE VIII. CROSS CONNECTION CONTROL PROGRAM</unit>
+</structure>
+<section_number>32-165</section_number>
+<catch_line>Test Reporting.</catch_line>
+<order_by>0000003856</order_by>
+<text><section>Sec. 32-165. Test Reporting.<section>Upon completion of testing, a test report form approved by the Department shall be completed by the certified backflow preventer tester and submitted to the customer and to the Department, no later than ten (10) days following the test. If the backflow preventer required repair before testing satisfactorily, that fact shall be indicated.</section></section></text><history>(Ord. No. 99-165, § 1, 12-7-99; Ord. No. 06-158, § 1, 10-24-06)</history></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-277</section_number>
+<catch_line>Lane direction control signals.</catch_line>
+<order_by>0000003396</order_by>
+<text><section>Sec. 30-277. Lane direction control signals.<section>When lane direction control signals are placed over the individual lanes of a street or highway, vehicular traffic may travel in any lane or lanes over which a green signal is shown, but shall not enter or travel in any lane or lanes over which a red signal is shown.</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

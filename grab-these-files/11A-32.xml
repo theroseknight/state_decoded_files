@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00019' order_by='00019' level='2'>Chapter 11A DISCRIMINATION</unit>
+<unit label='article' identifier='00005' order_by='00005' level='3'>ARTICLE V. FAMILY LEAVE</unit>
+</structure>
+<section_number>11A-32</section_number>
+<catch_line>Exemption for governmental employers that provide equivalent leave rights.</catch_line>
+<order_by>0000002175</order_by>
+<text><section>Sec. 11A-32. Exemption for governmental employers that provide equivalent leave rights.<section>This article shall not apply to any municipality, special district, or other local government entity that maintains a leave policy that:<section prefix='(a)'>Provides employees with at least the same rights to leave as are provided by this article; and</section><section prefix='(b)'>Includes an administrative procedure for its employees to enforce such rights.</section></section></section></text><history>(Ord. No. 97-17, § 1, 2-25-97)</history></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00002' order_by='00002' level='3'>ARTICLE II. PARKING SPACES FOR DISABLED PERSONS</unit>
+</structure>
+<section_number>30-443</section_number>
+<catch_line>Parking spaces provided by nongovernmental entities for certain disabled persons.</catch_line>
+<order_by>0000003590</order_by>
+<text><section>Sec. 30-443. Parking spaces provided by nongovernmental entities for certain disabled persons.<section prefix='(a)'>Any business, firm, or other person licensed to do business with the public may provide specially designed and marked motor vehicle parking spaces for the exclusive use of physically disabled persons who have been issued parking permits pursuant to Section 316.1958, Florida Statutes or Section 320.0848, Florida Statutes.</section><section prefix='(b)'>Each such parking space shall conform to the requirements of Section 30-442(c) and (d) of this Code.</section></section></text><history>(Ord. No. 87-39, § 1, 6-16-87)</history></law>

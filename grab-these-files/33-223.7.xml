@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00032' order_by='00032' level='3'>ARTICLE XIXB. RU-5A, SEMI-PROFESSIONAL OFFICE DISTRICT</unit>
+</structure>
+<section_number>33-223.7</section_number>
+<catch_line>Minimum lot width and area.</catch_line>
+<order_by>0000004197</order_by>
+<text><section>Sec. 33-223.7. Minimum lot width and area.<section prefix='(a)'>Minimum lot width shall be seventy-five (75) feet.</section><section prefix='(b)'>Minimum lot area shall be ten thousand (10,000) square feet.</section></section></text><history>(Ord. No. 64-18, § 3, 5-5-64)</history></law>

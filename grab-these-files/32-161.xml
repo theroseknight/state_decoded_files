@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00064' order_by='00064' level='2'>Chapter 32 WATER AND SEWER REGULATIONS</unit>
+<unit label='article' identifier='00008' order_by='00008' level='3'>ARTICLE VIII. CROSS CONNECTION CONTROL PROGRAM</unit>
+</structure>
+<section_number>32-161</section_number>
+<catch_line>Obstruction prohibited.</catch_line>
+<order_by>0000003852</order_by>
+<text><section>Sec. 32-161. Obstruction prohibited.<section>It shall be unlawful for any water customer to maintain or place anything on or near a backflow preventer or other related equipment which obstructs access to the backflow preventer.</section></section></text><history>(Ord. No. 99-165, § 1, 12-7-99)</history></law>

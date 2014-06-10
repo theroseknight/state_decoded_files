@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00015' order_by='00015' level='2'>Chapter 8E CRANES AND HOISTING EQUIPMENT</unit>
+</structure>
+<section_number>8E-10</section_number>
+<catch_line>Communications.</catch_line>
+<order_by>0000002028</order_by>
+<text><section>Sec. 8E-10. Communications.<section prefix='(a)'>Crane to crane. When more than one crane is used within the same swing radius an independent and clear channel of radio communication and operable equipment to transmit same between the cranes shall be provided.</section><section prefix='(b)'>Signal persons. Prior to signaling crane operators, all signal persons shall be tested and demonstrate their qualifications in the following areas:<section prefix='(1)'>Basic understanding of crane operation and limitations.</section><section prefix='(2)'>Standard hand and voice signals as provided in the applicable American National Standard (ANSI).</section></section><section>Certification of the signal person shall be in accordance with any recognized federal, state or local testing program.</section></section></text><history>(Ord. No. 08-34, § 1, 3-18-08)</history></law>

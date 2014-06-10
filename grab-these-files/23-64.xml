@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00043' order_by='00043' level='2'>Chapter 23 PENSIONS</unit>
+<unit label='article' identifier='00004' order_by='00004' level='3'>ARTICLE IV. DEATH BENEFITS</unit>
+</structure>
+<section_number>23-64</section_number>
+<catch_line>Source of payment.</catch_line>
+<order_by>0000003042</order_by>
+<text><section>Sec. 23-64. Source of payment.<section>The payments authorized herein other than those paid from the workers' compensation benefits fund shall be paid from the Dade County general fund for contingencies and administered by the Insurance and Safety Division in conjunction with worker's compensation benefits.</section></section></text><history>(Ord. No. 65-46, § 4, 6-17-65)</history></law>

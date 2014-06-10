@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00026' order_by='00026' level='2'>Chapter 14A FISH AND MARINE LIFE</unit>
+<unit label='article' identifier='00002' order_by='00002' level='3'>ARTICLE II. RESTRICTION ON CERTAIN FISHING NETS</unit>
+</structure>
+<section_number>14A-18</section_number>
+<catch_line>Remedies cumulative.</catch_line>
+<order_by>0000002370</order_by>
+<text><section>Sec. 14A-18. Remedies cumulative.<section>All the judicial remedies in this article are independent and cumulative.</section></section></text><history>(Ord. No. 82-73, § 8, 9-7-82)</history></law>

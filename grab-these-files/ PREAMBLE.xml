@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00003' order_by='00003' level='2'>PREAMBLE</unit>
+</structure>
+<section_number>abc</section_number>
+<catch_line> PREAMBLE</catch_line>
+<order_by>0000000004</order_by>
+<text><section> PREAMBLE<section>We, the people of this County, in order to secure for ourselves the benefits and responsibilities of home rule, to create a metropolitan government to serve our present and future needs, and to endow our municipalities with the rights of self determination in their local affairs, do under God adopt this home rule Charter.</section></section></text></law>

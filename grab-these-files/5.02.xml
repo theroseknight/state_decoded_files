@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00009' order_by='00009' level='2'>ARTICLE 5. ADMINISTRATIVE ORGANIZATION AND PROCEDURE</unit>
+</structure>
+<section_number>5.02</section_number>
+<catch_line>ADMINISTRATIVE PROCEDURE.</catch_line>
+<order_by>0000000026</order_by>
+<text><section>SECTION 5.02. ADMINISTRATIVE PROCEDURE.<section>The Mayor shall have the power to issue and place into effect administrative orders, rules, and regulations. The organization and operating procedure of administrative departments shall be set forth in regulations, which the Mayor shall develop, place into effect by administrative orders, and submit to the Board.</section></section></text></law>

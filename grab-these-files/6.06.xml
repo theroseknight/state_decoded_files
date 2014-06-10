@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00010' order_by='00010' level='2'>ARTICLE 6. MUNICIPALITIES</unit>
+</structure>
+<section_number>6.06</section_number>
+<catch_line>CONTRACTS WITH OTHER UNITS OF GOVERNMENT.</catch_line>
+<order_by>0000000039</order_by>
+<text><section>SECTION 6.06. CONTRACTS WITH OTHER UNITS OF GOVERNMENT.<section>Every municipality in this county shall have the power to enter into contracts with other governmental units within or outside the boundaries of the municipality or the county for the joint performance or performance by one unit in behalf of the other of any municipal function.</section></section></text></law>

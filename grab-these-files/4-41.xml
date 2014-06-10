@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00004' order_by='00004' level='2'>Chapter 4 AMBULANCES AND MEDICAL TRANSPORTATION VEHICLES</unit>
+<unit label='article' identifier='00003' order_by='00003' level='3'>ARTICLE III. NONEMERGENCY MEDICAL TRANSPORTATION</unit>
+</structure>
+<section_number>4-41</section_number>
+<catch_line>Short title.</catch_line>
+<order_by>0000001300</order_by>
+<text><section>Sec. 4-41. Short title.<section>This article shall be known as the "Nonemergency Medical Transportation Ordinance."</section></section></text><history>(Ord. No. 80-145, § 1, 12-18-80)</history></law>

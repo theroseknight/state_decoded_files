@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 1' order_by='00002' level='1'>PART I CONSTITUTIONAL AMENDMENT AND CHARTER</unit>
+<unit label='chapter' identifier='00007' order_by='00007' level='2'>ARTICLE 3. ELECTIONS</unit>
+</structure>
+<section_number>3.03</section_number>
+<catch_line>NONPARTISAN ELECTIONS.</catch_line>
+<order_by>0000000019</order_by>
+<text><section>SECTION 3.03. NONPARTISAN ELECTIONS.<section>All elections for Mayor and the other members of the Board shall be nonpartisan and no ballot shall show the party designation of any candidate. No candidate shall be required to pay any party assessment or state the party of which he is a member or the manner in which he voted or will vote in any election.</section></section></text></law>

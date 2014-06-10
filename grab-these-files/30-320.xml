@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-320</section_number>
+<catch_line>Head lamps on motor vehicles.</catch_line>
+<order_by>0000003442</order_by>
+<text><section>Sec. 30-320. Head lamps on motor vehicles.<section prefix='(1)'>Every motor vehicle shall be equipped with at least two (2) head lamps with at least one (1) on each side of the front of the motor vehicle, which head lamps shall comply with the requirements and limitations set forth in this chapter, and shall show a white light.</section><section prefix='(2)'>Every head lamp upon every motor vehicle shall be located at a height of not more than fifty-four (54) inches nor less than twenty-four (24) inches to be measured as set forth in Section 30-317</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

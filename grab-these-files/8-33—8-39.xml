@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00008' order_by='00008' level='2'>Chapter 8 BUILDING CODE</unit>
+<unit label='article' identifier='00003' order_by='00003' level='3'>ARTICLE III. FLORIDA BUILDING CODE</unit>
+</structure>
+<section_number>8-33—8-39</section_number>
+<catch_line>Reserved.</catch_line>
+<order_by>0000001424</order_by>
+<text><section>Secs. 8-33—8-39. Reserved.</section></text></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00060' order_by='00060' level='2'>Chapter 30 TRAFFIC AND MOTOR VEHICLES</unit>
+<unit label='article' identifier='00001' order_by='00001' level='3'>ARTICLE I. IN GENERAL</unit>
+</structure>
+<section_number>30-347</section_number>
+<catch_line>Lamps on parked vehicles.</catch_line>
+<order_by>0000003469</order_by>
+<text><section>Sec. 30-347. Lamps on parked vehicles.<section prefix='(1)'>Every motorcycle must comply with the provisions of Section 30-329 regarding lamps on parked vehicles and the use thereof.</section><section prefix='(2)'>Motor-driven cycles need not be equipped with parking lamps or otherwise comply with the provisions of Section 30-329</section></section></text><history>(Ord. No. 71-94, § 1, 12-21-71)</history></law>

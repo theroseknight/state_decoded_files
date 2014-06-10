@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00067' order_by='00067' level='2'>Chapter 33 ZONING</unit>
+<unit label='article' identifier='00030' order_by='00030' level='3'>ARTICLE XIX. RU-4A, HOTEL APARTMENT HOUSE DISTRICT</unit>
+</structure>
+<section_number>33-219</section_number>
+<catch_line>Lot coverage.</catch_line>
+<order_by>0000004176</order_by>
+<text><section>Sec. 33-219. Lot coverage.<section>The total lot coverage permitted for all buildings on the site shall not exceed forty (40) percent of the total lot area.</section></section></text><history>(Ord. No. 72-92, § 1, 12-5-72)</history></law>

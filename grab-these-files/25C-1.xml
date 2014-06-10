@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00050' order_by='00050' level='2'>Chapter 25C PAYMENT OF COSTS OF HOSPITAL CARE, TREATMENT AND MAINTENANCE</unit>
+</structure>
+<section_number>25C-1</section_number>
+<catch_line>Applicability.</catch_line>
+<order_by>0000003112</order_by>
+<text><section>Sec. 25C-1. Applicability.<section>The provisions of this Act [chapter] shall not be applicable to accidents or injuries within the purview of the Workmen's Compensation Act of this state.</section></section></text><history>(Ch. 27032, § 6, Laws 1951)</history></law>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<law>
+<structure>
+<unit label='part' identifier='PART 3' order_by='00004' level='1'>PART III CODE OF ORDINANCES</unit>
+<unit label='chapter' identifier='00008' order_by='00008' level='2'>Chapter 8 BUILDING CODE</unit>
+<unit label='article' identifier='00002' order_by='00002' level='3'>ARTICLE II. BUILDING INSPECTORS, PLANS EXAMINERS, BUILDING OFFICIALS, CHIEF INSPECTORS AND SPECIAL INSPECTORS</unit>
+</structure>
+<section_number>8-21.4</section_number>
+<catch_line>(Not used)</catch_line>
+<order_by>0000001411</order_by>
+<text><section>Sec. 8-21.4. (Not used)</section></text></law>
